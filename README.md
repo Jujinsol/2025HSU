@@ -13,7 +13,8 @@
 - 상황에 따른 전략적인 선택  
 - 미니게임의 성공 여부가 생존의 핵심 요소로 작용
 
-![image](https://github.com/user-attachments/assets/f393bab6-6b8c-4e63-b5cf-eb7b929fddae)
+![image](https://github.com/user-attachments/assets/e9b933db-9c26-42b9-921c-c250127f4aa9)
+![image](https://github.com/user-attachments/assets/e37e1d37-fd2c-40b5-996b-0faf0c4a9f58)
 ![image](https://github.com/user-attachments/assets/7b69623e-7d94-4893-adb6-9b037cb9c289)
 
 ## 💡 기대 효과
