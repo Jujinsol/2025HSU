@@ -1,6 +1,7 @@
 # 🎮 UNDER PRESSURE: 30일  
 ## Unity 기반 생존 시뮬레이션 게임
 
+
 ## 📖 작품 개요
 
 게임은 현대의 거대한 놀이 문화로 자리 잡으며 모두에게 즐거움을 제공하고 있습니다.  
@@ -16,6 +17,7 @@
 ![image](https://github.com/user-attachments/assets/e9b933db-9c26-42b9-921c-c250127f4aa9)
 ![image](https://github.com/user-attachments/assets/e37e1d37-fd2c-40b5-996b-0faf0c4a9f58)
 ![image](https://github.com/user-attachments/assets/7b69623e-7d94-4893-adb6-9b037cb9c289)
+
 
 ## 💡 기대 효과
 
@@ -33,7 +35,9 @@
 
 
 ## 🎥 시연영상
+아래 이미지를 클릭하면 유튜브로 연결됩니다.
 [![Video Label](http://img.youtube.com/vi/8flKB_ywX28/maxresdefault.jpg)](https://youtu.be/8flKB_ywX28)
+
 
 ## 👥 팀원 소개
 
