@@ -14,7 +14,7 @@
 - 상황에 따른 전략적인 선택  
 - 미니게임의 성공 여부가 생존의 핵심 요소로 작용
 
-![image](https://github.com/user-attachments/assets/e9b933db-9c26-42b9-921c-c250127f4aa9)
+![Image](https://github.com/user-attachments/assets/ef4619db-7706-4caa-b56c-c0008cae40fa)
 ![image](https://github.com/user-attachments/assets/e37e1d37-fd2c-40b5-996b-0faf0c4a9f58)
 ![image](https://github.com/user-attachments/assets/7b69623e-7d94-4893-adb6-9b037cb9c289)
 
